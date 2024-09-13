@@ -16,7 +16,7 @@ export const Heade = () => {
             <Link className="hover:scale-110 hover:text-red-900 cursor-pointer" to={'/Catalogue'}>
                 <span >Catalogue</span>
                 </Link>
-                <Link  to={'/contact'} className="hover:scale-110 hover:text-red-900 cursor-pointer">
+                <Link  to={'/Contact'} className="hover:scale-110 hover:text-red-900 cursor-pointer">
                 <span >contact us</span>
 
                 </Link>
