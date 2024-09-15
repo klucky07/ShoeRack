@@ -30,13 +30,13 @@ export function TypewriterEffectSmoothDemo() {
       <TypewriterEffectSmooth words={words} />
       <div
         className="flex flex-col md:flex-row space-y-4 md:space-y-0 space-x-0 md:space-x-4">
-     <Link to={'https://x.com/_k_lucky'} >
+     <Link to={'https://x.com/_k_lucky'}   target="_blank" rel="noopener noreferrer">
      <button
           className="w-40 h-10 text-2xl rounded-xl dark:text-white border-transparent underline underline-offset-2 text-blue-400 hover:scale-110 ">
           Twitter
         </button>
      </Link>   
-     <Link to={'https://www.linkedin.com/in/luckyalikhan/'} >
+     <Link to={'https://www.linkedin.com/in/luckyalikhan/'}  target="_blank" rel="noopener noreferrer" >
      <button
           className="w-40 h-10 text-2xl rounded-xl dark:text-white border-transparent underline underline-offset-2 text-blue-400 ">
         Linkedin
