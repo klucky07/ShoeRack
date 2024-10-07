@@ -12,22 +12,22 @@ export const Catalogue = () => {
         </div>
         <div className=" grid grid-cols-1 md:grid-cols-3 sm:grid-cols-2 gap-28 p-10 ">
             <div className="w-fit   ">
-                <BackgroundGradientDemo src={'../../../public/shoe1.jpg'} />
+                <BackgroundGradientDemo src={'/shoe1.jpg'} />
             </div>
             <div className="w-fit ">
-                <BackgroundGradientDemo src={'../../../public/shoe1.jpg'} />
+                <BackgroundGradientDemo src={'/shoe1.jpg'} />
             </div>
             <div className="w-fit ">
-                <BackgroundGradientDemo src={'../../../public/shoe1.jpg'} />
+                <BackgroundGradientDemo src={'/shoe1.jpg'} />
             </div>
             <div className="w-fit ">
-                <BackgroundGradientDemo src={'../../../public/shoe1.jpg'} />
+                <BackgroundGradientDemo src={'/shoe1.jpg'} />
             </div>
             <div className="w-fit ">
-                <BackgroundGradientDemo src={'../../../public/shoe1.jpg'} />
+                <BackgroundGradientDemo src={'/shoe1.jpg'} />
             </div>
             <div className="w-fit ">
-                <BackgroundGradientDemo src={'../../../public/shoe1.jpg'} />
+                <BackgroundGradientDemo src={'/shoe1.jpg'} />
             </div>
         </div>
 
